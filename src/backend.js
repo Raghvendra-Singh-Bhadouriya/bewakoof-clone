@@ -1,0 +1,34 @@
+let topSliderImg = [
+    {
+        id:1,
+        img:"https://images.bewakoof.com/uploads/grid/app/1x1-2024-HC-New-OVT-sameLikeADS-1725526850.jpg"
+    },
+    {
+        id:2,
+        img:"https://images.bewakoof.com/uploads/grid/app/Joker-Ai-Men-1x1-HC-Banner-1727768615.jpg"
+    },
+    {
+        id:3,
+        img:"https://images.bewakoof.com/uploads/grid/app/HC-1X1-classic-fit-tee-1726829266-1727754559.webp"
+    },
+    {
+        id:4,
+        img:"https://images.bewakoof.com/uploads/grid/app/1x1-2024-HC-coldpla-common-ezgif-com-optimize--1--1727445124.gif"
+    },
+    {
+        id:5,
+        img:"https://images.bewakoof.com/uploads/grid/app/HC-1X1-oversized-tee-1726829267-1727677830.jpg"
+    },
+    {
+        id:6,
+        img:"https://images.bewakoof.com/uploads/grid/app/1x1-2024-HC-savingzone-oct-1stweek-1727591837.jpg"
+    },
+    {
+        id:7,
+        img:"https://images.bewakoof.com/uploads/grid/app/1x1-2024-HC-DOTW27-commn-ezgif-com-optimize-1727682894.gif"
+    }
+]
+
+export{
+    topSliderImg
+}
